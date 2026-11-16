@@ -131,15 +131,6 @@ Upon fresh installation or download, use these universal credentials to access t
 
 ---
 
-## 📦 Building Releases for Distribution
-
-To generate an obfuscated, lightweight distribution package:
-1. Double-click `build_release.bat`.
-2. Enter version `3.0.0` and changelog notes.
-3. The production-ready archive is created in `releases/shikor_cms_v3.0.0_release.zip`.
-
----
-
 ## 📄 License & Credits
 
 Developed with ❤️ by **[SHIKOR Visualization Firm](https://shikorviz.com)**.  
